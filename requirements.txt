@@ -1,2 +1,3 @@
 streamlit
 twint
+nest_asyncio
