@@ -6,6 +6,6 @@ st.markdown("""
     Streamlit is cool!!!
     ### Перейти👈
     - GITHUB (https://github.com/Dandr11/scrape/blob/main/scrape.py)
-    - GITHUB (https://github.com/Dandr11/AAD/blob/main/pages/Binance.py)
+    - GITHUB (https://github.com/Dandr11/scrape/blob/main/pages/twitter.py)
                 """)
 #st.balloons()
