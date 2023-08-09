@@ -18,4 +18,4 @@ c.Limit = 10
 c.Lang = "en"
 c.Translate = True
 c.TranslateDest = "ru"
-st.write(twint.run.Search(c))# Запустить
+#st.write(twint.run.Search(c))# Запустить
