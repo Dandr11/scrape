@@ -1,6 +1,9 @@
 import twint
 import streamlit as st
+import nest_asyncio
 st.set_page_config(layout='wide')
+
+nest_asyncio.apply()
 c = twint.Config() # Настроить
 """
 #c.Lang = "en" 
