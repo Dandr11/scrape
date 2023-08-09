@@ -1,3 +1,2 @@
 streamlit
-twint
-nest_asyncio
+playwright
